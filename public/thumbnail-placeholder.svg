@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1f1f1f"/>
+  <circle cx="640" cy="360" r="90" fill="#000" opacity="0.55"/>
+  <polygon points="610,310 610,410 695,360" fill="#fff"/>
+  <text x="640" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#909090">No thumbnail</text>
+</svg>
